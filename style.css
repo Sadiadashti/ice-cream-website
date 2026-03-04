@@ -1,0 +1,238 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.logo{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.head{
+    position: relative;
+    top:-350px;
+    left: 900px;
+    font-weight: bold;
+    color: white;
+}
+.both{
+    height: 850px;
+    position: relative;
+    left: -900px;
+}
+.cart{
+    position: relative;
+    right: 10px;
+}
+.section{
+    position: relative;
+    top: -50px;
+    left: 120px;
+}
+.sector{
+    position: relative;
+    top: -250px;
+}
+.pic:hover{
+    transform: scale(0.9);
+    cursor: pointer;
+    border: 1px solid black;
+}
+.three{
+    position: relative;
+    left: 200px;
+}
+.two{
+    position: relative;
+    left: 150px;
+}
+.one{
+    position: relative;
+    left: 100px;
+}
+.pic{
+    transition: all 3s;
+}
+.ones{
+    position: relative;
+    left: 80px;
+}
+.para{
+    position: relative;
+    left: -200px;
+}
+.pro{
+    position: relative;
+    left: 550px;
+}
+.sect{
+    position: relative;
+    top: -450px;
+}
+.stage{
+    position: relative;
+    top: -430px;
+}
+.price{
+    position: relative;
+    top: -50px;
+    left: 180px;
+}
+.rew{
+    position: relative;
+    top:-40px;
+}
+.icon{
+    position: relative;
+    top: -50px;
+    left: 90px;
+}
+.flav{
+    position: relative;
+    top: -10px;
+}
+.sort{
+    position: relative;
+    bottom: 700px;
+}
+.color{
+    position: relative;
+    left: 80px;
+}
+.plus{
+    position: relative;
+    left: 485px;
+    bottom: 250px;
+}
+.cone{
+    position: relative;
+    left: -40px;
+    gap: 70px;
+    transition: all 3s;
+}
+.cone:hover{
+    cursor: pointer;
+    transform: scale(1.2);
+    color: white;
+    background-color: #321414;
+}
+.imag{
+    position: relative;
+    left: 70px;
+    top: -4px;
+    transition: all 3s;
+}
+.imag:hover{
+    cursor: pointer;
+    transform: scale(1.2);
+    color: white;
+    background-color: #008000 ;
+}
+.heading{
+    position: relative;
+    left: 100px;
+}
+.path{
+    position: relative;
+    left: -80px;
+}
+.oreo{
+    position: relative;
+    left: 30px;
+    top: -4px;
+    transition: all 3s;
+}
+.oreo:hover{
+    cursor: pointer;
+    transform: scale(1.2);
+    color: white;
+    background-color: #654321;
+}
+.imed{
+    position: relative;
+    left: 5px;
+    transition: all 3s;
+    color: transparent;
+}
+.imed:hover{
+    cursor: pointer;
+    transform: scale(1.2);
+    color: white;
+    background-color: #ff1493;
+}
+.icons{
+    position: relative;
+    left: 180px;
+    top: -12px;
+}
+.ico{
+    position: relative;
+    left: 180px;
+    top: -10px;
+}
+.ice{
+    position: relative;
+    top: -10px;
+    left: 180px;
+}
+.pure{
+    position: relative;
+    top: 10px;
+    left: -10px;
+}
+.classic{
+    transition: all 2s;
+    position: relative;
+    left: 900px;
+}
+.classic:hover{
+    transform: scale(0.9);
+    cursor: pointer;
+}
+.gram{
+    position: relative;
+    left: 10px;
+}
+.last{
+    position: relative;
+    bottom:850px; 
+    left: 10px;
+    height: 1350px;
+}
+.parag{
+    position: relative;
+    left: 250px;
+    top: 50px;
+}
+.btn{
+    position: relative;
+    left: 50px;
+    top: 5px;
+}
+.prem{
+    position: relative;
+    left: 100px;
+}
+.hero{
+    position: relative;
+    left: 20px;
+    top: -20px;
+}
+.focus{
+    position: relative;
+    left: 500px;
+
+}
+
+.malai{
+    position: relative;
+    bottom: 500px;
+    left: -120px;
+}
+footer{
+    position: relative;
+    top: -480px;
+}
+.logos{
+    position: relative;
+    left: -200px;
+    top: 60px;
+}
